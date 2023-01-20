@@ -6,3 +6,11 @@ D:\PRO1\Dmald\Dmald\bin\Debug\Dmald.exe
 D:\PRO1\Dmald\Dmald\bin\Debug\Dmald.pdb
 D:\PRO1\Dmald\Dmald\obj\Debug\Dmald.exe
 D:\PRO1\Dmald\Dmald\obj\Debug\Dmald.pdb
+D:\PRO1\Vaja2\Dmald\bin\Debug\Dmald.exe.config
+D:\PRO1\Vaja2\Dmald\bin\Debug\Dmald.exe
+D:\PRO1\Vaja2\Dmald\bin\Debug\Dmald.pdb
+D:\PRO1\Vaja2\Dmald\obj\Debug\Dmald.csproj.AssemblyReference.cache
+D:\PRO1\Vaja2\Dmald\obj\Debug\Dmald.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Vaja2\Dmald\obj\Debug\Dmald.csproj.CoreCompileInputs.cache
+D:\PRO1\Vaja2\Dmald\obj\Debug\Dmald.exe
+D:\PRO1\Vaja2\Dmald\obj\Debug\Dmald.pdb
