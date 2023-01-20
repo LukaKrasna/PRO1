@@ -1,0 +1,2 @@
+XAML = eXtensible Application Marketing language
+WPF = Windows Presentation Folder
