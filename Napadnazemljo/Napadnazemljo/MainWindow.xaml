@@ -5,7 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Napadnazemljo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="481" Width="819">
+    <Window.Resources>
+        <ControlTemplate x:Key="PredlogaSovražnik" TargetType="{x:Type ContentControl}">
+            <Grid>
+                <Ellipse HorizontalAlignment="Left" Height="100" Stroke="Black" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.041,-0.047" Margin="0,-17,0,0" Fill="Lime"/>
+            </Grid>
+        </ControlTemplate>
+    </Window.Resources>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="100*"/>
@@ -17,7 +24,44 @@
             <RowDefinition/>
             <RowDefinition Height="100"/>
         </Grid.RowDefinitions>
-        <TextBlock Grid.Column="1" Margin="141,0,233,0" TextWrapping="Wrap" Text="Napad na zemljo" FontSize="24" FontWeight="Bold" VerticalAlignment="Center"/>
+        <TextBlock Grid.Column="1" TextWrapping="Wrap" Text="Napad na zemljo" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <ProgressBar x:Name="prgIgra" Grid.Column="1" Grid.Row="2" ValueChanged="prgIgra_ValueChanged" Height="20"/>
+        <StackPanel Grid.Column="2" Orientation="Vertical" Grid.Row="2">
+            <TextBlock TextWrapping="Wrap" Text="Izogibaj se"/>
+            <ContentControl Template="{DynamicResource PredlogaSovražnik}" Content="ContentControl" Height="83"/>
+        </StackPanel>
+        <Canvas x:Name="IgralniDel" Grid.Row="1" Grid.ColumnSpan="3">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF1030E0"/>
+                    <GradientStop Color="#FF0B21DC" Offset="1"/>
+                    <GradientStop Color="#FFEC5555" Offset="0.53"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <StackPanel x:Name="človek">
+                <Ellipse Fill="White" Height="10" Width="10"/>
+                <Rectangle Fill="White" Height="25" Width="10"/>
+            </StackPanel>
+            <TextBlock x:Name="tblGameOver" Canvas.Left="196" TextWrapping="Wrap" Text="Game Over" Canvas.Top="75" FontFamily="Arial" FontSize="100" Foreground="White"/>
+            <Rectangle x:Name="Cilj" Height="100" Canvas.Left="273" Stroke="#FFD4DE25" Canvas.Top="32" Width="100" RenderTransformOrigin="0.5,0.5" Cursor="">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="45"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+                <Rectangle.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FFEAEC18" Offset="1"/>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+
+        </Canvas>
+        <Button x:Name="btnStart" Content="Start" Grid.Row="2" Width="80" Height="50" Click="btnStart_Click"/>
 
     </Grid>
 </Window>
