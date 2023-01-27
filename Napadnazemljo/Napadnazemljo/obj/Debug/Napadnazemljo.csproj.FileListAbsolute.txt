@@ -14,3 +14,11 @@ D:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\Napadnazemljo.csproj.GenerateRe
 D:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\Napadnazemljo.csproj.CoreCompileInputs.cache
 D:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\Napadnazemljo.exe
 D:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\Napadnazemljo.pdb
+F:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\Napadnazemljo.csproj.AssemblyReference.cache
+F:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\Napadnazemljo.csproj.SuggestedBindingRedirects.cache
+F:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\MainWindow.g.cs
+F:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\App.g.cs
+F:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\Napadnazemljo_MarkupCompile.cache
+F:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\Napadnazemljo_MarkupCompile.lref
+F:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\Napadnazemljo.exe
+F:\PRO1sk2\Napadnazemljo\Napadnazemljo\obj\Debug\Napadnazemljo.pdb

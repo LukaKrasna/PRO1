@@ -7,30 +7,54 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="481" Width="819">
     <Window.Resources>
-        <ControlTemplate x:Key="PredlogaSovražnik" TargetType="{x:Type ContentControl}">
+        <ControlTemplate x:Key="predlogaSovražnik" TargetType="{x:Type ContentControl}">
             <Grid>
-                <Ellipse HorizontalAlignment="Left" Height="100" Stroke="Black" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.041,-0.047" Margin="0,-17,0,0" Fill="Lime"/>
+                <Ellipse HorizontalAlignment="Center" Height="100" Stroke="Black" Fill="Lime" VerticalAlignment="Center" Width="100">
+                </Ellipse>
             </Grid>
         </ControlTemplate>
     </Window.Resources>
-    <Grid>
+    <Grid RenderTransformOrigin="0.5,0.5">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="100*"/>
-            <ColumnDefinition Width="525*"/>
-            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="100"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="100"/>
             <RowDefinition/>
             <RowDefinition Height="100"/>
         </Grid.RowDefinitions>
-        <TextBlock Grid.Column="1" TextWrapping="Wrap" Text="Napad na zemljo" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        <ProgressBar x:Name="prgIgra" Grid.Column="1" Grid.Row="2" ValueChanged="prgIgra_ValueChanged" Height="20"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Center" TextWrapping="WrapWithOverflow" Text="Napad na zemljo  " Width="350" TextAlignment="Center" VerticalAlignment="Center" FontSize="30" Height="37" FontWeight="Bold"/>
+        <Image Height="100" Width="100"/>
+        <Button x:Name="btnstart" Content="Start" Grid.Row="2" Click="btnstart_Click_1" Margin="0,17,0,17" Height="50" Width="80"/>
+        <ProgressBar x:Name="prgIgra" Grid.Column="1" Grid.Row="2" FontSize="16" Height="20"/>
         <StackPanel Grid.Column="2" Orientation="Vertical" Grid.Row="2">
-            <TextBlock TextWrapping="Wrap" Text="Izogibaj se"/>
-            <ContentControl Template="{DynamicResource PredlogaSovražnik}" Content="ContentControl" Height="83"/>
+            <StackPanel Orientation="Vertical">
+                <TextBlock TextWrapping="Wrap" Text="Izogibaj se" RenderTransformOrigin="0.5,0.5">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="0.283"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <ContentControl Height="81" RenderTransformOrigin="0.5,0.5">
+                    <ContentControl.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleX="-0.817"/>
+                            <RotateTransform/>
+                            <TranslateTransform X="-0.578"/>
+                        </TransformGroup>
+                    </ContentControl.RenderTransform>
+                    <Ellipse Height="81" Stroke="Black" VerticalAlignment="Top" Width="81" Fill="Lime"/>
+                </ContentControl>
+            </StackPanel>
         </StackPanel>
-        <Canvas x:Name="IgralniDel" Grid.Row="1" Grid.ColumnSpan="3">
+        <Canvas x:Name="igralniDel" Grid.Row="1" Grid.ColumnSpan="3">
             <Canvas.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF1030E0"/>
@@ -42,14 +66,13 @@
                 <Ellipse Fill="White" Height="10" Width="10"/>
                 <Rectangle Fill="White" Height="25" Width="10"/>
             </StackPanel>
-            <TextBlock x:Name="tblGameOver" Canvas.Left="196" TextWrapping="Wrap" Text="Game Over" Canvas.Top="75" FontFamily="Arial" FontSize="100" Foreground="White"/>
-            <Rectangle x:Name="Cilj" Height="100" Canvas.Left="273" Stroke="#FFD4DE25" Canvas.Top="32" Width="100" RenderTransformOrigin="0.5,0.5" Cursor="">
+            <Rectangle Height="100" Canvas.Left="370" Stroke="#FFD4DE25" Canvas.Top="145" Width="100" RenderTransformOrigin="0.501,0.476">
                 <Rectangle.RenderTransform>
                     <TransformGroup>
                         <ScaleTransform/>
                         <SkewTransform/>
-                        <RotateTransform Angle="45"/>
-                        <TranslateTransform/>
+                        <RotateTransform Angle="51"/>
+                        <TranslateTransform X="1.828" Y="0.967"/>
                     </TransformGroup>
                 </Rectangle.RenderTransform>
                 <Rectangle.Fill>
@@ -59,9 +82,9 @@
                     </LinearGradientBrush>
                 </Rectangle.Fill>
             </Rectangle>
-
+            <TextBlock Canvas.Left="257" TextWrapping="Wrap" Text="Konec igre" Canvas.Top="31" Foreground="White" FontSize="50" FontWeight="Bold" Visibility="Collapsed"/>
         </Canvas>
-        <Button x:Name="btnStart" Content="Start" Grid.Row="2" Width="80" Height="50" Click="btnStart_Click"/>
+       
 
     </Grid>
 </Window>
