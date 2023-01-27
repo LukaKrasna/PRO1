@@ -1,0 +1,8 @@
+D:\PRO1sk2\nalogica\nalogica\obj\Debug\nalogica.csproj.AssemblyReference.cache
+D:\PRO1sk2\nalogica\nalogica\obj\Debug\nalogica.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\nalogica\nalogica\obj\Debug\nalogica.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\nalogica\nalogica\bin\Debug\nalogica.exe.config
+D:\PRO1sk2\nalogica\nalogica\bin\Debug\nalogica.exe
+D:\PRO1sk2\nalogica\nalogica\bin\Debug\nalogica.pdb
+D:\PRO1sk2\nalogica\nalogica\obj\Debug\nalogica.exe
+D:\PRO1sk2\nalogica\nalogica\obj\Debug\nalogica.pdb
