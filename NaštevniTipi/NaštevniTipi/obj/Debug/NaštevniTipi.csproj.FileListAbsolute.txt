@@ -1,0 +1,8 @@
+D:\PRO1sk2\NaštevniTipi\NaštevniTipi\bin\Debug\NaštevniTipi.exe.config
+D:\PRO1sk2\NaštevniTipi\NaštevniTipi\bin\Debug\NaštevniTipi.exe
+D:\PRO1sk2\NaštevniTipi\NaštevniTipi\bin\Debug\NaštevniTipi.pdb
+D:\PRO1sk2\NaštevniTipi\NaštevniTipi\obj\Debug\NaštevniTipi.csproj.AssemblyReference.cache
+D:\PRO1sk2\NaštevniTipi\NaštevniTipi\obj\Debug\NaštevniTipi.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\NaštevniTipi\NaštevniTipi\obj\Debug\NaštevniTipi.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\NaštevniTipi\NaštevniTipi\obj\Debug\NaštevniTipi.exe
+D:\PRO1sk2\NaštevniTipi\NaštevniTipi\obj\Debug\NaštevniTipi.pdb

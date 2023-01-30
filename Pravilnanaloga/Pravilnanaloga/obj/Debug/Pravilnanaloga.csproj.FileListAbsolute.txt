@@ -1,0 +1,8 @@
+D:\PRO1sk2\Pravilnanaloga\Pravilnanaloga\obj\Debug\Pravilnanaloga.csproj.AssemblyReference.cache
+D:\PRO1sk2\Pravilnanaloga\Pravilnanaloga\obj\Debug\Pravilnanaloga.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\Pravilnanaloga\Pravilnanaloga\obj\Debug\Pravilnanaloga.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\Pravilnanaloga\Pravilnanaloga\bin\Debug\Pravilnanaloga.exe.config
+D:\PRO1sk2\Pravilnanaloga\Pravilnanaloga\bin\Debug\Pravilnanaloga.exe
+D:\PRO1sk2\Pravilnanaloga\Pravilnanaloga\bin\Debug\Pravilnanaloga.pdb
+D:\PRO1sk2\Pravilnanaloga\Pravilnanaloga\obj\Debug\Pravilnanaloga.exe
+D:\PRO1sk2\Pravilnanaloga\Pravilnanaloga\obj\Debug\Pravilnanaloga.pdb

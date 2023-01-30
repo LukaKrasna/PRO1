@@ -25,7 +25,7 @@ namespace nalogica
             char znak = '?';
             int ascii = 69;
             Console.WriteLine(znak + " ima ascii kodo " + ascii + ".");
-            Console.WriteLine(ascii + " ima ascii kodo " + znak + ".");
+            Console.WriteLine(ascii + " ima kodo " + znak + ".");
             Console.ReadLine(); 
         }
     }
