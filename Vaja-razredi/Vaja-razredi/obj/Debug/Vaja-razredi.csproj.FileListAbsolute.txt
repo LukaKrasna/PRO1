@@ -1,0 +1,8 @@
+D:\PRO1sk2\Vaja-razredi\Vaja-razredi\bin\Debug\Vaja-razredi.exe.config
+D:\PRO1sk2\Vaja-razredi\Vaja-razredi\bin\Debug\Vaja-razredi.exe
+D:\PRO1sk2\Vaja-razredi\Vaja-razredi\bin\Debug\Vaja-razredi.pdb
+D:\PRO1sk2\Vaja-razredi\Vaja-razredi\obj\Debug\Vaja-razredi.csproj.AssemblyReference.cache
+D:\PRO1sk2\Vaja-razredi\Vaja-razredi\obj\Debug\Vaja-razredi.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\Vaja-razredi\Vaja-razredi\obj\Debug\Vaja-razredi.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\Vaja-razredi\Vaja-razredi\obj\Debug\Vaja-razredi.exe
+D:\PRO1sk2\Vaja-razredi\Vaja-razredi\obj\Debug\Vaja-razredi.pdb

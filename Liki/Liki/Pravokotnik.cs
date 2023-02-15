@@ -36,5 +36,7 @@ namespace Liki
         {
             return StranicaA() * StranicaB();
         }
+        public double izpišiVse()
+        { }
     }
 }
