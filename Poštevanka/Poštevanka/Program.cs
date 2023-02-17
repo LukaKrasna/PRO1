@@ -29,8 +29,8 @@ namespace Poštevanka
                     }
                 }
               
-                Console.WriteLine("Imel/a si jih " + i + " pravilnih");
-                Console.WriteLine("Ali želiš ponovno vnesti število?(Da/Ne)");
+                Console.WriteLine("Imel/a si jih " + i + " pravilnih.");
+                Console.WriteLine("Ali želiš ponovno vnesti število?(Da/Ne).");
                 string c1 = (Console.ReadLine());
                 if (c1.ToUpper()=="DA") //(c1.Equals("Da")  tudi to lahko, deluje sam da pri ToUpper je bolje.
                 {
