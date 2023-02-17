@@ -26,7 +26,7 @@ namespace Vaja_razredi
         }
         public double Doseg()
         {
-            return 15 * 7.61 / 100;
+            return 100 * 7.61 / 7.61;
         }
     }
 }

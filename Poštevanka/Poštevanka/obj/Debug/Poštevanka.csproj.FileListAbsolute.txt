@@ -1,0 +1,8 @@
+D:\PRO1sk2\Poštevanka\Poštevanka\obj\Debug\Poštevanka.csproj.AssemblyReference.cache
+D:\PRO1sk2\Poštevanka\Poštevanka\obj\Debug\Poštevanka.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\Poštevanka\Poštevanka\obj\Debug\Poštevanka.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\Poštevanka\Poštevanka\bin\Debug\Poštevanka.exe.config
+D:\PRO1sk2\Poštevanka\Poštevanka\bin\Debug\Poštevanka.exe
+D:\PRO1sk2\Poštevanka\Poštevanka\bin\Debug\Poštevanka.pdb
+D:\PRO1sk2\Poštevanka\Poštevanka\obj\Debug\Poštevanka.exe
+D:\PRO1sk2\Poštevanka\Poštevanka\obj\Debug\Poštevanka.pdb
