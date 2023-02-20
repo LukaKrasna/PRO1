@@ -1,0 +1,8 @@
+D:\PRO1sk2\Dodatne vaje razredi - lahke 2. naloga\Dodatne vaje razredi - lahke 2. naloga\bin\Debug\Dodatne_vaje_razredi___lahke_2.naloga.exe.config
+D:\PRO1sk2\Dodatne vaje razredi - lahke 2. naloga\Dodatne vaje razredi - lahke 2. naloga\bin\Debug\Dodatne_vaje_razredi___lahke_2.naloga.exe
+D:\PRO1sk2\Dodatne vaje razredi - lahke 2. naloga\Dodatne vaje razredi - lahke 2. naloga\bin\Debug\Dodatne_vaje_razredi___lahke_2.naloga.pdb
+D:\PRO1sk2\Dodatne vaje razredi - lahke 2. naloga\Dodatne vaje razredi - lahke 2. naloga\obj\Debug\Dodatne vaje razredi - lahke 2. naloga.csproj.AssemblyReference.cache
+D:\PRO1sk2\Dodatne vaje razredi - lahke 2. naloga\Dodatne vaje razredi - lahke 2. naloga\obj\Debug\Dodatne vaje razredi - lahke 2. naloga.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\Dodatne vaje razredi - lahke 2. naloga\Dodatne vaje razredi - lahke 2. naloga\obj\Debug\Dodatne vaje razredi - lahke 2. naloga.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\Dodatne vaje razredi - lahke 2. naloga\Dodatne vaje razredi - lahke 2. naloga\obj\Debug\Dodatne_vaje_razredi___lahke_2.naloga.exe
+D:\PRO1sk2\Dodatne vaje razredi - lahke 2. naloga\Dodatne vaje razredi - lahke 2. naloga\obj\Debug\Dodatne_vaje_razredi___lahke_2.naloga.pdb
