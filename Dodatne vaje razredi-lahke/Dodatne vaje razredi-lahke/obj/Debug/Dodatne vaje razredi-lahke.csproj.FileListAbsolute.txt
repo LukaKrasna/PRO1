@@ -1,0 +1,8 @@
+D:\PRO1sk2\Dodatne vaje razredi-lahke\Dodatne vaje razredi-lahke\bin\Debug\Dodatne vaje razredi-lahke.exe.config
+D:\PRO1sk2\Dodatne vaje razredi-lahke\Dodatne vaje razredi-lahke\bin\Debug\Dodatne vaje razredi-lahke.exe
+D:\PRO1sk2\Dodatne vaje razredi-lahke\Dodatne vaje razredi-lahke\bin\Debug\Dodatne vaje razredi-lahke.pdb
+D:\PRO1sk2\Dodatne vaje razredi-lahke\Dodatne vaje razredi-lahke\obj\Debug\Dodatne vaje razredi-lahke.csproj.AssemblyReference.cache
+D:\PRO1sk2\Dodatne vaje razredi-lahke\Dodatne vaje razredi-lahke\obj\Debug\Dodatne vaje razredi-lahke.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\Dodatne vaje razredi-lahke\Dodatne vaje razredi-lahke\obj\Debug\Dodatne vaje razredi-lahke.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\Dodatne vaje razredi-lahke\Dodatne vaje razredi-lahke\obj\Debug\Dodatne vaje razredi-lahke.exe
+D:\PRO1sk2\Dodatne vaje razredi-lahke\Dodatne vaje razredi-lahke\obj\Debug\Dodatne vaje razredi-lahke.pdb
