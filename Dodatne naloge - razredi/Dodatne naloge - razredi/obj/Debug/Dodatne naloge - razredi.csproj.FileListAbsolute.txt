@@ -1,0 +1,8 @@
+D:\PRO1sk2\Dodatne naloge - razredi\Dodatne naloge - razredi\bin\Debug\Dodatne naloge - razredi.exe.config
+D:\PRO1sk2\Dodatne naloge - razredi\Dodatne naloge - razredi\bin\Debug\Dodatne naloge - razredi.exe
+D:\PRO1sk2\Dodatne naloge - razredi\Dodatne naloge - razredi\bin\Debug\Dodatne naloge - razredi.pdb
+D:\PRO1sk2\Dodatne naloge - razredi\Dodatne naloge - razredi\obj\Debug\Dodatne naloge - razredi.csproj.AssemblyReference.cache
+D:\PRO1sk2\Dodatne naloge - razredi\Dodatne naloge - razredi\obj\Debug\Dodatne naloge - razredi.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\Dodatne naloge - razredi\Dodatne naloge - razredi\obj\Debug\Dodatne naloge - razredi.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\Dodatne naloge - razredi\Dodatne naloge - razredi\obj\Debug\Dodatne naloge - razredi.exe
+D:\PRO1sk2\Dodatne naloge - razredi\Dodatne naloge - razredi\obj\Debug\Dodatne naloge - razredi.pdb
