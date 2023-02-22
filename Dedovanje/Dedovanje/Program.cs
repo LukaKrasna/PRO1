@@ -17,6 +17,12 @@ namespace Dedovanje
             a.Ime = "Miha Potrč";
             a.LetnaPlača = 12000;
             a.Izpis();
+            LetniDelavec b = new LetniDelavec();
+            b.DelID = "5678";
+            b.Ime = "Miha Potrč";
+            b.LetnaPlača = 12000;
+            b.Izpis();
+            b.Geslo
             Console.ReadLine();
         }
     }
