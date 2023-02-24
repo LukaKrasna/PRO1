@@ -24,19 +24,17 @@ namespace Liki
             x2 = x2p;
             y2 = y2p;
         }
-        public double StranicaA()
+        public int StranicaA()
         {
-            return x2 - x1;
+            return Math.Abs(x2 - x1);
         }
-        public double StranicaB()
+        public int StranicaB()
         {
-            return y2 - y2;
+            return Math.Abs(y2 - y1);
         }
-        public double Ploščina()
+        public int Ploščina()
         {
             return StranicaA() * StranicaB();
-        }
-        public double izpišiVse()
-        { }
+        } 
     }
 }

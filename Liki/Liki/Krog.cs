@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Liki
 {
-    /*internal class Krog
+    internal class Krog
     {
         int x; //je private dostop
         int y;
@@ -31,7 +31,7 @@ namespace Liki
         {
             return Math.PI * radij * radij;  //številka pi krat radij na dva
         }
-    }*/
+    }
 
 
 }
