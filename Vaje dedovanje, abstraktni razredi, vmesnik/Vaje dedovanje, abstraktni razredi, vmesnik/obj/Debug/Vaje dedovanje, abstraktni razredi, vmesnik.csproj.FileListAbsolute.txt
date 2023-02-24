@@ -1,0 +1,8 @@
+D:\PRO1sk2\Vaje dedovanje, abstraktni razredi, vmesnik\Vaje dedovanje, abstraktni razredi, vmesnik\bin\Debug\Vaje dedovanje, abstraktni razredi, vmesnik.exe.config
+D:\PRO1sk2\Vaje dedovanje, abstraktni razredi, vmesnik\Vaje dedovanje, abstraktni razredi, vmesnik\bin\Debug\Vaje dedovanje, abstraktni razredi, vmesnik.exe
+D:\PRO1sk2\Vaje dedovanje, abstraktni razredi, vmesnik\Vaje dedovanje, abstraktni razredi, vmesnik\bin\Debug\Vaje dedovanje, abstraktni razredi, vmesnik.pdb
+D:\PRO1sk2\Vaje dedovanje, abstraktni razredi, vmesnik\Vaje dedovanje, abstraktni razredi, vmesnik\obj\Debug\Vaje dedovanje, abstraktni razredi, vmesnik.csproj.AssemblyReference.cache
+D:\PRO1sk2\Vaje dedovanje, abstraktni razredi, vmesnik\Vaje dedovanje, abstraktni razredi, vmesnik\obj\Debug\Vaje dedovanje, abstraktni razredi, vmesnik.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\Vaje dedovanje, abstraktni razredi, vmesnik\Vaje dedovanje, abstraktni razredi, vmesnik\obj\Debug\Vaje dedovanje, abstraktni razredi, vmesnik.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\Vaje dedovanje, abstraktni razredi, vmesnik\Vaje dedovanje, abstraktni razredi, vmesnik\obj\Debug\Vaje dedovanje, abstraktni razredi, vmesnik.exe
+D:\PRO1sk2\Vaje dedovanje, abstraktni razredi, vmesnik\Vaje dedovanje, abstraktni razredi, vmesnik\obj\Debug\Vaje dedovanje, abstraktni razredi, vmesnik.pdb
