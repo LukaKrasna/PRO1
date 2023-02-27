@@ -1,0 +1,8 @@
+D:\PRO1sk2\KonkulatorOcenV2\KonkulatorOcenV2\bin\Debug\KonkulatorOcenV2.exe.config
+D:\PRO1sk2\KonkulatorOcenV2\KonkulatorOcenV2\bin\Debug\KonkulatorOcenV2.exe
+D:\PRO1sk2\KonkulatorOcenV2\KonkulatorOcenV2\bin\Debug\KonkulatorOcenV2.pdb
+D:\PRO1sk2\KonkulatorOcenV2\KonkulatorOcenV2\obj\Debug\KonkulatorOcenV2.csproj.AssemblyReference.cache
+D:\PRO1sk2\KonkulatorOcenV2\KonkulatorOcenV2\obj\Debug\KonkulatorOcenV2.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\KonkulatorOcenV2\KonkulatorOcenV2\obj\Debug\KonkulatorOcenV2.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\KonkulatorOcenV2\KonkulatorOcenV2\obj\Debug\KonkulatorOcenV2.exe
+D:\PRO1sk2\KonkulatorOcenV2\KonkulatorOcenV2\obj\Debug\KonkulatorOcenV2.pdb
