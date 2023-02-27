@@ -25,6 +25,7 @@ Razreda Book in Toy morata izvajati metodi GetDescription() in GetDiscountedPric
 mora razred AbstractProduct definirati metodo GetCategory(), ki vrne kategorijo izdelka(bodisi
 "knjiga" ali "igrača").
 V metodi Main testirajte delovanje.*/
+
         }
     }
 }

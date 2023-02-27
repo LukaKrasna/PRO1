@@ -8,6 +8,8 @@ namespace Vaje_dedovanje__abstraktni_razredi__vmesnik_2
 {
     internal interface Iproduct
     {
-        double GetID();
+        double GetID(int ID);
+        string GetName(string Name);
+        double GetPrice(int Price);
     }
 }

@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace Vaje_dedovanje__abstraktni_razredi__vmesnik_2
 {
-    internal class AbstractProduct
+    internal class AbstractProduct:Iproduct
     {
+        public double GetID(int ID)
+        {
+            throw new NotImplementedException();
+        }
+
+        public string GetName(string Name)
+        {
+            throw new NotImplementedException();
+        }
+
+        public double GetPrice(int Price)
+        {
+            throw new NotImplementedException();
+        }
+        String GetDescription;
+        Double GetDiscountedPrice;
     }
 }
