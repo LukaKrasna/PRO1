@@ -1,0 +1,8 @@
+D:\PRO1sk2\Tabela\Tabela\bin\Debug\Tabela.exe.config
+D:\PRO1sk2\Tabela\Tabela\bin\Debug\Tabela.exe
+D:\PRO1sk2\Tabela\Tabela\bin\Debug\Tabela.pdb
+D:\PRO1sk2\Tabela\Tabela\obj\Debug\Tabela.csproj.AssemblyReference.cache
+D:\PRO1sk2\Tabela\Tabela\obj\Debug\Tabela.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\Tabela\Tabela\obj\Debug\Tabela.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\Tabela\Tabela\obj\Debug\Tabela.exe
+D:\PRO1sk2\Tabela\Tabela\obj\Debug\Tabela.pdb
