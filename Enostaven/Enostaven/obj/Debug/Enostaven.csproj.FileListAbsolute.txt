@@ -1,0 +1,11 @@
+D:\PRO1sk11\Enostaven\Enostaven\bin\Debug\Enostaven.exe.config
+D:\PRO1sk11\Enostaven\Enostaven\bin\Debug\Enostaven.exe
+D:\PRO1sk11\Enostaven\Enostaven\bin\Debug\Enostaven.pdb
+D:\PRO1sk11\Enostaven\Enostaven\obj\Debug\Enostaven.csproj.AssemblyReference.cache
+D:\PRO1sk11\Enostaven\Enostaven\obj\Debug\Enostaven.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\Enostaven\Enostaven\obj\Debug\Enostaven.Form1.resources
+D:\PRO1sk11\Enostaven\Enostaven\obj\Debug\Enostaven.Properties.Resources.resources
+D:\PRO1sk11\Enostaven\Enostaven\obj\Debug\Enostaven.csproj.GenerateResource.cache
+D:\PRO1sk11\Enostaven\Enostaven\obj\Debug\Enostaven.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\Enostaven\Enostaven\obj\Debug\Enostaven.exe
+D:\PRO1sk11\Enostaven\Enostaven\obj\Debug\Enostaven.pdb
