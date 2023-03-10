@@ -106,7 +106,35 @@ namespace EuropskoPrvenstvo
             }
         }
         //uredi tabelo
-
+        public void urediTabelo()
+        {
+            Ekipa[] urejena = new Ekipa[10];
+            for(int k = 0; k < 10; k++)
+            {
+                urejena[k] = liga[k];
+            }
+            //uredi po poljubnem algoritmu
+            for(int k=0; k<9; k++)
+            {
+                Ekipa max = urejena[k];
+                int maxIndex = k;
+                for(int j=k+1;j<10;j++)
+                {
+                    if (urejena[j].BoljšaEkipa(max))
+                    {
+                        max = urejena[j];
+                        maxIndex = j;
+                    }//konec if
+                }//konecj
+                Ekipa temp = liga[maxIndex];
+                liga[maxIndex] = liga[k];
+                liga[k] = temp;
+            }//konec k
+            for (int k = 0; k < 10; k++)
+            {
+                urejena[k].Izpis();
+            }
+        }//konec uredi
         //1. izdelja seznam kol
         //1. kolo se sreča slo:isl
         //                 pol:švi
