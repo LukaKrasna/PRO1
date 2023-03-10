@@ -1,0 +1,8 @@
+D:\PRO1sk11\EuropskoPrvenstvo\EuropskoPrvenstvo\bin\Debug\EuropskoPrvenstvo.exe.config
+D:\PRO1sk11\EuropskoPrvenstvo\EuropskoPrvenstvo\bin\Debug\EuropskoPrvenstvo.exe
+D:\PRO1sk11\EuropskoPrvenstvo\EuropskoPrvenstvo\bin\Debug\EuropskoPrvenstvo.pdb
+D:\PRO1sk11\EuropskoPrvenstvo\EuropskoPrvenstvo\obj\Debug\EuropskoPrvenstvo.csproj.AssemblyReference.cache
+D:\PRO1sk11\EuropskoPrvenstvo\EuropskoPrvenstvo\obj\Debug\EuropskoPrvenstvo.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\EuropskoPrvenstvo\EuropskoPrvenstvo\obj\Debug\EuropskoPrvenstvo.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\EuropskoPrvenstvo\EuropskoPrvenstvo\obj\Debug\EuropskoPrvenstvo.exe
+D:\PRO1sk11\EuropskoPrvenstvo\EuropskoPrvenstvo\obj\Debug\EuropskoPrvenstvo.pdb
