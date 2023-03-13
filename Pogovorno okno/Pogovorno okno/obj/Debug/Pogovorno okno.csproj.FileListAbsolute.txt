@@ -1,0 +1,11 @@
+D:\PRO1sk11\Pogovorno okno\Pogovorno okno\bin\Debug\Pogovorno okno.exe.config
+D:\PRO1sk11\Pogovorno okno\Pogovorno okno\bin\Debug\Pogovorno okno.exe
+D:\PRO1sk11\Pogovorno okno\Pogovorno okno\bin\Debug\Pogovorno okno.pdb
+D:\PRO1sk11\Pogovorno okno\Pogovorno okno\obj\Debug\Pogovorno okno.csproj.AssemblyReference.cache
+D:\PRO1sk11\Pogovorno okno\Pogovorno okno\obj\Debug\Pogovorno okno.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\Pogovorno okno\Pogovorno okno\obj\Debug\Pogovorno_okno.Form1.resources
+D:\PRO1sk11\Pogovorno okno\Pogovorno okno\obj\Debug\Pogovorno_okno.Properties.Resources.resources
+D:\PRO1sk11\Pogovorno okno\Pogovorno okno\obj\Debug\Pogovorno okno.csproj.GenerateResource.cache
+D:\PRO1sk11\Pogovorno okno\Pogovorno okno\obj\Debug\Pogovorno okno.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\Pogovorno okno\Pogovorno okno\obj\Debug\Pogovorno okno.exe
+D:\PRO1sk11\Pogovorno okno\Pogovorno okno\obj\Debug\Pogovorno okno.pdb

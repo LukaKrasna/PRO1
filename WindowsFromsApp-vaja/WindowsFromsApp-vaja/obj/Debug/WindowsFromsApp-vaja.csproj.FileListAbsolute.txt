@@ -1,0 +1,11 @@
+D:\PRO1sk11\WindowsFromsApp-vaja\WindowsFromsApp-vaja\bin\Debug\WindowsFromsApp-vaja.exe.config
+D:\PRO1sk11\WindowsFromsApp-vaja\WindowsFromsApp-vaja\bin\Debug\WindowsFromsApp-vaja.exe
+D:\PRO1sk11\WindowsFromsApp-vaja\WindowsFromsApp-vaja\bin\Debug\WindowsFromsApp-vaja.pdb
+D:\PRO1sk11\WindowsFromsApp-vaja\WindowsFromsApp-vaja\obj\Debug\WindowsFromsApp-vaja.csproj.AssemblyReference.cache
+D:\PRO1sk11\WindowsFromsApp-vaja\WindowsFromsApp-vaja\obj\Debug\WindowsFromsApp-vaja.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\WindowsFromsApp-vaja\WindowsFromsApp-vaja\obj\Debug\WindowsFromsApp_vaja.Form1.resources
+D:\PRO1sk11\WindowsFromsApp-vaja\WindowsFromsApp-vaja\obj\Debug\WindowsFromsApp_vaja.Properties.Resources.resources
+D:\PRO1sk11\WindowsFromsApp-vaja\WindowsFromsApp-vaja\obj\Debug\WindowsFromsApp-vaja.csproj.GenerateResource.cache
+D:\PRO1sk11\WindowsFromsApp-vaja\WindowsFromsApp-vaja\obj\Debug\WindowsFromsApp-vaja.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\WindowsFromsApp-vaja\WindowsFromsApp-vaja\obj\Debug\WindowsFromsApp-vaja.exe
+D:\PRO1sk11\WindowsFromsApp-vaja\WindowsFromsApp-vaja\obj\Debug\WindowsFromsApp-vaja.pdb

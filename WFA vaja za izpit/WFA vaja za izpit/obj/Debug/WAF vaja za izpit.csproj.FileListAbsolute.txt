@@ -1,0 +1,11 @@
+D:\PRO1sk11\WFA vaja za izpit\WFA vaja za izpit\bin\Debug\WFA vaja za izpit.exe.config
+D:\PRO1sk11\WFA vaja za izpit\WFA vaja za izpit\bin\Debug\WFA vaja za izpit.exe
+D:\PRO1sk11\WFA vaja za izpit\WFA vaja za izpit\bin\Debug\WFA vaja za izpit.pdb
+D:\PRO1sk11\WFA vaja za izpit\WFA vaja za izpit\obj\Debug\WAF vaja za izpit.csproj.AssemblyReference.cache
+D:\PRO1sk11\WFA vaja za izpit\WFA vaja za izpit\obj\Debug\WAF vaja za izpit.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\WFA vaja za izpit\WFA vaja za izpit\obj\Debug\WFA_vaja_za_izpit.Form1.resources
+D:\PRO1sk11\WFA vaja za izpit\WFA vaja za izpit\obj\Debug\WFA_vaja_za_izpit.Properties.Resources.resources
+D:\PRO1sk11\WFA vaja za izpit\WFA vaja za izpit\obj\Debug\WAF vaja za izpit.csproj.GenerateResource.cache
+D:\PRO1sk11\WFA vaja za izpit\WFA vaja za izpit\obj\Debug\WAF vaja za izpit.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\WFA vaja za izpit\WFA vaja za izpit\obj\Debug\WFA vaja za izpit.exe
+D:\PRO1sk11\WFA vaja za izpit\WFA vaja za izpit\obj\Debug\WFA vaja za izpit.pdb
