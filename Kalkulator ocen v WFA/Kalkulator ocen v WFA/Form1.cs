@@ -60,7 +60,38 @@ namespace Kalkulator_ocen_v_WFA
                     MessageBox.Show(x.Message);
                 }
             }
-            
+            if (radAng.Checked == true)
+            {
+                try
+                {
+                    ŠtudentAng m = new ŠtudentAng();
+                    m.Delni1 = int.Parse(txtDelni1.Text);
+                    m.Delni2 = int.Parse(txtDelni2.Text);
+                    m.Seminar = int.Parse(txtSeminar.Text);
+                    m.Ustna = int.Parse(txtUstna.Text);
+                    labRezultat.Text = m.Izpis();
+                }
+                catch (Exception x)
+                {
+                    MessageBox.Show(x.Message);
+                }
+            }
+            if (radNar.Checked == true)
+            {
+                try
+                {
+                    ŠtudentNar m = new ŠtudentNar();
+                    m.Delni1 = int.Parse(txtDelni1.Text);
+                    m.Delni2 = int.Parse(txtDelni2.Text);
+                    m.Seminar = int.Parse(txtSeminar.Text);
+                    labRezultat.Text = m.Izpis();
+                }
+                catch (Exception x)
+                {
+                    MessageBox.Show(x.Message);
+                }
+            }
+
         }
 
         private void btnPoenostavi_Click(object sender, EventArgs e)
