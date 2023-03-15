@@ -1,0 +1,11 @@
+D:\PRO1sk11\Risanje\Risanje\obj\Debug\Risanje.csproj.AssemblyReference.cache
+D:\PRO1sk11\Risanje\Risanje\obj\Debug\Risanje.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\Risanje\Risanje\obj\Debug\Risanje.Form1.resources
+D:\PRO1sk11\Risanje\Risanje\obj\Debug\Risanje.Properties.Resources.resources
+D:\PRO1sk11\Risanje\Risanje\obj\Debug\Risanje.csproj.GenerateResource.cache
+D:\PRO1sk11\Risanje\Risanje\obj\Debug\Risanje.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\Risanje\Risanje\bin\Debug\Risanje.exe.config
+D:\PRO1sk11\Risanje\Risanje\bin\Debug\Risanje.exe
+D:\PRO1sk11\Risanje\Risanje\bin\Debug\Risanje.pdb
+D:\PRO1sk11\Risanje\Risanje\obj\Debug\Risanje.exe
+D:\PRO1sk11\Risanje\Risanje\obj\Debug\Risanje.pdb

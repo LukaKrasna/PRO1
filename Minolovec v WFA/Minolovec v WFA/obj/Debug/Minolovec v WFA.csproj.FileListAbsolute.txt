@@ -1,0 +1,11 @@
+D:\PRO1sk11\Minolovec v WFA\Minolovec v WFA\bin\Debug\Minolovec v WFA.exe.config
+D:\PRO1sk11\Minolovec v WFA\Minolovec v WFA\bin\Debug\Minolovec v WFA.exe
+D:\PRO1sk11\Minolovec v WFA\Minolovec v WFA\bin\Debug\Minolovec v WFA.pdb
+D:\PRO1sk11\Minolovec v WFA\Minolovec v WFA\obj\Debug\Minolovec v WFA.csproj.AssemblyReference.cache
+D:\PRO1sk11\Minolovec v WFA\Minolovec v WFA\obj\Debug\Minolovec v WFA.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\Minolovec v WFA\Minolovec v WFA\obj\Debug\Minolovec_v_WFA.Form1.resources
+D:\PRO1sk11\Minolovec v WFA\Minolovec v WFA\obj\Debug\Minolovec_v_WFA.Properties.Resources.resources
+D:\PRO1sk11\Minolovec v WFA\Minolovec v WFA\obj\Debug\Minolovec v WFA.csproj.GenerateResource.cache
+D:\PRO1sk11\Minolovec v WFA\Minolovec v WFA\obj\Debug\Minolovec v WFA.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\Minolovec v WFA\Minolovec v WFA\obj\Debug\Minolovec v WFA.exe
+D:\PRO1sk11\Minolovec v WFA\Minolovec v WFA\obj\Debug\Minolovec v WFA.pdb
