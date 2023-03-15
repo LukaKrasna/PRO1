@@ -62,5 +62,14 @@ namespace Kalkulator_ocen_v_WFA
             }
             
         }
+
+        private void btnPoenostavi_Click(object sender, EventArgs e)
+        {
+            txtDelni1.Text = "";
+            txtDelni2.Clear();
+            txtSeminar.Text = "";
+            txtUstna.Text = "";
+            labRezultat.Text = "";
+        }
     }
 }

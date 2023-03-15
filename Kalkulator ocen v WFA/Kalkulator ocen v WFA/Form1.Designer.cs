@@ -192,8 +192,9 @@
             this.btnPoenostavi.Name = "btnPoenostavi";
             this.btnPoenostavi.Size = new System.Drawing.Size(75, 23);
             this.btnPoenostavi.TabIndex = 3;
-            this.btnPoenostavi.Text = "Poenostavi";
+            this.btnPoenostavi.Text = "Ponastavi";
             this.btnPoenostavi.UseVisualStyleBackColor = true;
+            this.btnPoenostavi.Click += new System.EventHandler(this.btnPoenostavi_Click);
             // 
             // labRezultat
             // 
