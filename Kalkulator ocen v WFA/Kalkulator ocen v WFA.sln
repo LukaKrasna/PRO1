@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulator ocen v WFA", "Kalkulator ocen v WFA\Kalkulator ocen v WFA.csproj", "{B33E6567-912E-4E94-8B65-2EABFC6CA70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33E6567-912E-4E94-8B65-2EABFC6CA70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33E6567-912E-4E94-8B65-2EABFC6CA70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33E6567-912E-4E94-8B65-2EABFC6CA70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33E6567-912E-4E94-8B65-2EABFC6CA70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1E0F010-76ED-4079-A180-ECF97C7BE080}
+	EndGlobalSection
+EndGlobal
