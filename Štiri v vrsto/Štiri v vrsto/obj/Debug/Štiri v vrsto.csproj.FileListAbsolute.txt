@@ -1,0 +1,11 @@
+D:\PRO1sk11\Štiri v vrsto\Štiri v vrsto\bin\Debug\Štiri v vrsto.exe.config
+D:\PRO1sk11\Štiri v vrsto\Štiri v vrsto\bin\Debug\Štiri v vrsto.exe
+D:\PRO1sk11\Štiri v vrsto\Štiri v vrsto\bin\Debug\Štiri v vrsto.pdb
+D:\PRO1sk11\Štiri v vrsto\Štiri v vrsto\obj\Debug\Štiri v vrsto.csproj.AssemblyReference.cache
+D:\PRO1sk11\Štiri v vrsto\Štiri v vrsto\obj\Debug\Štiri v vrsto.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\Štiri v vrsto\Štiri v vrsto\obj\Debug\Štiri_v_vrsto.Form1.resources
+D:\PRO1sk11\Štiri v vrsto\Štiri v vrsto\obj\Debug\Štiri_v_vrsto.Properties.Resources.resources
+D:\PRO1sk11\Štiri v vrsto\Štiri v vrsto\obj\Debug\Štiri v vrsto.csproj.GenerateResource.cache
+D:\PRO1sk11\Štiri v vrsto\Štiri v vrsto\obj\Debug\Štiri v vrsto.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\Štiri v vrsto\Štiri v vrsto\obj\Debug\Štiri v vrsto.exe
+D:\PRO1sk11\Štiri v vrsto\Štiri v vrsto\obj\Debug\Štiri v vrsto.pdb

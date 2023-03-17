@@ -1,0 +1,11 @@
+D:\PRO1sk11\Tortni graf\Tortni graf\bin\Debug\Tortni graf.exe.config
+D:\PRO1sk11\Tortni graf\Tortni graf\bin\Debug\Tortni graf.exe
+D:\PRO1sk11\Tortni graf\Tortni graf\bin\Debug\Tortni graf.pdb
+D:\PRO1sk11\Tortni graf\Tortni graf\obj\Debug\Tortni graf.csproj.AssemblyReference.cache
+D:\PRO1sk11\Tortni graf\Tortni graf\obj\Debug\Tortni graf.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\Tortni graf\Tortni graf\obj\Debug\Tortni_graf.Form1.resources
+D:\PRO1sk11\Tortni graf\Tortni graf\obj\Debug\Tortni_graf.Properties.Resources.resources
+D:\PRO1sk11\Tortni graf\Tortni graf\obj\Debug\Tortni graf.csproj.GenerateResource.cache
+D:\PRO1sk11\Tortni graf\Tortni graf\obj\Debug\Tortni graf.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\Tortni graf\Tortni graf\obj\Debug\Tortni graf.exe
+D:\PRO1sk11\Tortni graf\Tortni graf\obj\Debug\Tortni graf.pdb
