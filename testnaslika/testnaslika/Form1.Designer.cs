@@ -33,13 +33,20 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.datotekaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.vrtenjeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.zrcaljenjeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.filterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.btnOdpri = new System.Windows.Forms.ToolStripMenuItem();
             this.btnShrani = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.btnIzhod = new System.Windows.Forms.ToolStripMenuItem();
+            this.vrtenjeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.zrcaljenjeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.zrcaliNavpičnoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.zrcaliVodoravnoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.filterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.posvetljiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.potemniToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.negativToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.vrtenjeZa90ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -51,6 +58,7 @@
             this.hScrollBar1.Name = "hScrollBar1";
             this.hScrollBar1.Size = new System.Drawing.Size(800, 17);
             this.hScrollBar1.TabIndex = 0;
+            this.hScrollBar1.Scroll += new System.Windows.Forms.ScrollEventHandler(this.hScrollBar1_Scroll);
             // 
             // vScrollBar1
             // 
@@ -59,12 +67,14 @@
             this.vScrollBar1.Name = "vScrollBar1";
             this.vScrollBar1.Size = new System.Drawing.Size(17, 409);
             this.vScrollBar1.TabIndex = 1;
+            this.vScrollBar1.Scroll += new System.Windows.Forms.ScrollEventHandler(this.vScrollBar1_Scroll);
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(135, 75);
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox1.Location = new System.Drawing.Point(0, 24);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(551, 297);
+            this.pictureBox1.Size = new System.Drawing.Size(783, 409);
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
@@ -92,46 +102,101 @@
             this.datotekaToolStripMenuItem.Size = new System.Drawing.Size(66, 20);
             this.datotekaToolStripMenuItem.Text = "Datoteka";
             // 
+            // btnOdpri
+            // 
+            this.btnOdpri.Name = "btnOdpri";
+            this.btnOdpri.Size = new System.Drawing.Size(107, 22);
+            this.btnOdpri.Text = "Odpri";
+            this.btnOdpri.Click += new System.EventHandler(this.btnOdpri_Click);
+            // 
+            // btnShrani
+            // 
+            this.btnShrani.Name = "btnShrani";
+            this.btnShrani.Size = new System.Drawing.Size(107, 22);
+            this.btnShrani.Text = "Shrani";
+            // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(104, 6);
+            // 
+            // btnIzhod
+            // 
+            this.btnIzhod.Name = "btnIzhod";
+            this.btnIzhod.Size = new System.Drawing.Size(107, 22);
+            this.btnIzhod.Text = "Izhod";
+            // 
             // vrtenjeToolStripMenuItem
             // 
+            this.vrtenjeToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.vrtenjeZa90ToolStripMenuItem});
             this.vrtenjeToolStripMenuItem.Name = "vrtenjeToolStripMenuItem";
             this.vrtenjeToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
             this.vrtenjeToolStripMenuItem.Text = "Vrtenje";
             // 
             // zrcaljenjeToolStripMenuItem
             // 
+            this.zrcaljenjeToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.zrcaliNavpičnoToolStripMenuItem,
+            this.zrcaliVodoravnoToolStripMenuItem});
             this.zrcaljenjeToolStripMenuItem.Name = "zrcaljenjeToolStripMenuItem";
             this.zrcaljenjeToolStripMenuItem.Size = new System.Drawing.Size(70, 20);
             this.zrcaljenjeToolStripMenuItem.Text = "Zrcaljenje";
             // 
+            // zrcaliNavpičnoToolStripMenuItem
+            // 
+            this.zrcaliNavpičnoToolStripMenuItem.Name = "zrcaliNavpičnoToolStripMenuItem";
+            this.zrcaliNavpičnoToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
+            this.zrcaliNavpičnoToolStripMenuItem.Text = "Zrcali navpično";
+            this.zrcaliNavpičnoToolStripMenuItem.Click += new System.EventHandler(this.zrcaliNavpičnoToolStripMenuItem_Click);
+            // 
+            // zrcaliVodoravnoToolStripMenuItem
+            // 
+            this.zrcaliVodoravnoToolStripMenuItem.Name = "zrcaliVodoravnoToolStripMenuItem";
+            this.zrcaliVodoravnoToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
+            this.zrcaliVodoravnoToolStripMenuItem.Text = "Zrcali vodoravno";
+            this.zrcaliVodoravnoToolStripMenuItem.Click += new System.EventHandler(this.zrcaliVodoravnoToolStripMenuItem_Click);
+            // 
             // filterToolStripMenuItem
             // 
+            this.filterToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.posvetljiToolStripMenuItem,
+            this.potemniToolStripMenuItem,
+            this.negativToolStripMenuItem});
             this.filterToolStripMenuItem.Name = "filterToolStripMenuItem";
             this.filterToolStripMenuItem.Size = new System.Drawing.Size(45, 20);
             this.filterToolStripMenuItem.Text = "Filter";
             // 
-            // btnOdpri
+            // posvetljiToolStripMenuItem
             // 
-            this.btnOdpri.Name = "btnOdpri";
-            this.btnOdpri.Size = new System.Drawing.Size(180, 22);
-            this.btnOdpri.Text = "Odpri";
+            this.posvetljiToolStripMenuItem.Name = "posvetljiToolStripMenuItem";
+            this.posvetljiToolStripMenuItem.Size = new System.Drawing.Size(119, 22);
+            this.posvetljiToolStripMenuItem.Text = "Posvetlji";
             // 
-            // btnShrani
+            // potemniToolStripMenuItem
             // 
-            this.btnShrani.Name = "btnShrani";
-            this.btnShrani.Size = new System.Drawing.Size(180, 22);
-            this.btnShrani.Text = "Shrani";
+            this.potemniToolStripMenuItem.Name = "potemniToolStripMenuItem";
+            this.potemniToolStripMenuItem.Size = new System.Drawing.Size(119, 22);
+            this.potemniToolStripMenuItem.Text = "Potemni";
             // 
-            // toolStripSeparator1
+            // negativToolStripMenuItem
             // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
+            this.negativToolStripMenuItem.Name = "negativToolStripMenuItem";
+            this.negativToolStripMenuItem.Size = new System.Drawing.Size(119, 22);
+            this.negativToolStripMenuItem.Text = "Negativ";
+            this.negativToolStripMenuItem.Click += new System.EventHandler(this.negativToolStripMenuItem_Click);
             // 
-            // btnIzhod
+            // openFileDialog1
             // 
-            this.btnIzhod.Name = "btnIzhod";
-            this.btnIzhod.Size = new System.Drawing.Size(180, 22);
-            this.btnIzhod.Text = "Izhod";
+            this.openFileDialog1.FileName = "openFileDialog1";
+            this.openFileDialog1.Filter = "slike|*.jpg;*.png;*.pmg|Vse datoteke |**";
+            // 
+            // vrtenjeZa90ToolStripMenuItem
+            // 
+            this.vrtenjeZa90ToolStripMenuItem.Name = "vrtenjeZa90ToolStripMenuItem";
+            this.vrtenjeZa90ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.vrtenjeZa90ToolStripMenuItem.Text = "Vrtenje za 90°";
+            this.vrtenjeZa90ToolStripMenuItem.Click += new System.EventHandler(this.vrtenjeZa90ToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -145,6 +210,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Resize += new System.EventHandler(this.Form1_Resize);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -167,6 +233,13 @@
         private System.Windows.Forms.ToolStripMenuItem vrtenjeToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem zrcaljenjeToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem filterToolStripMenuItem;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.ToolStripMenuItem zrcaliNavpičnoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem zrcaliVodoravnoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem posvetljiToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem potemniToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem negativToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem vrtenjeZa90ToolStripMenuItem;
     }
 }
 

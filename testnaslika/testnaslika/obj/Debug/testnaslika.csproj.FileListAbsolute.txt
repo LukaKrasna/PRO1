@@ -1,0 +1,11 @@
+D:\PRO1sk11\testnaslika\testnaslika\bin\Debug\testnaslika.exe.config
+D:\PRO1sk11\testnaslika\testnaslika\bin\Debug\testnaslika.exe
+D:\PRO1sk11\testnaslika\testnaslika\bin\Debug\testnaslika.pdb
+D:\PRO1sk11\testnaslika\testnaslika\obj\Debug\testnaslika.csproj.AssemblyReference.cache
+D:\PRO1sk11\testnaslika\testnaslika\obj\Debug\testnaslika.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\testnaslika\testnaslika\obj\Debug\testnaslika.Form1.resources
+D:\PRO1sk11\testnaslika\testnaslika\obj\Debug\testnaslika.Properties.Resources.resources
+D:\PRO1sk11\testnaslika\testnaslika\obj\Debug\testnaslika.csproj.GenerateResource.cache
+D:\PRO1sk11\testnaslika\testnaslika\obj\Debug\testnaslika.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\testnaslika\testnaslika\obj\Debug\testnaslika.exe
+D:\PRO1sk11\testnaslika\testnaslika\obj\Debug\testnaslika.pdb
