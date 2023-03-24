@@ -1,0 +1,16 @@
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\bin\Debug\Vsota WPF aplikacija.exe.config
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\bin\Debug\Vsota WPF aplikacija.exe
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\bin\Debug\Vsota WPF aplikacija.pdb
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\Vsota WPF aplikacija.csproj.AssemblyReference.cache
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\Vsota WPF aplikacija.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\MainWindow.g.cs
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\App.g.cs
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\Vsota WPF aplikacija_MarkupCompile.cache
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\Vsota WPF aplikacija_MarkupCompile.lref
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\MainWindow.baml
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\Vsota WPF aplikacija.g.resources
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\Vsota_WPF_aplikacija.Properties.Resources.resources
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\Vsota WPF aplikacija.csproj.GenerateResource.cache
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\Vsota WPF aplikacija.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\Vsota WPF aplikacija.exe
+D:\PRO1sk11\Vsota WPF aplikacija\Vsota WPF aplikacija\obj\Debug\Vsota WPF aplikacija.pdb

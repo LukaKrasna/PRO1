@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prvaWPFaplikacija", "prvaWPFaplikacija\prvaWPFaplikacija.csproj", "{24333BE9-CE7E-4A2F-9F84-ADB1C1F07EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24333BE9-CE7E-4A2F-9F84-ADB1C1F07EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24333BE9-CE7E-4A2F-9F84-ADB1C1F07EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24333BE9-CE7E-4A2F-9F84-ADB1C1F07EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24333BE9-CE7E-4A2F-9F84-ADB1C1F07EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42BA6FED-50F3-46DD-A118-525A8BCA7D2E}
+	EndGlobalSection
+EndGlobal

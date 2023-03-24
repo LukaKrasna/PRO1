@@ -1,0 +1,47 @@
+﻿<Window x:Class="Pritrkovalci.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pritrkovalci"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="471" Width="831">
+    <Window.Resources>
+        <Style x:Key="stilGumba" TargetType="Button">
+            <Setter Property="Background" Value="Gray"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+        </Style>
+        <Style x:Key="stilPisave" TargetType="Control">
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/bell.gif"/>
+        </Grid.Background>
+        <Button x:Name="Dodaj" Content="Dodaj" HorizontalAlignment="Left" Margin="93,373,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" Background="Gray" Foreground="White" Height="30" Width="93"/>
+        <Button Content="Počisti" HorizontalAlignment="Left" Margin="629,382,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" Background="Gray" Foreground="White"/>
+        <Label Content="Ime" HorizontalAlignment="Left" Margin="69,42,0,0" VerticalAlignment="Top"/>
+        <Label Content="Priimek" HorizontalAlignment="Left" Margin="254,42,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="112,46,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" FontFamily="Comic Sans MS" Background="Gray" Foreground="White"/>
+        <TextBox HorizontalAlignment="Left" Margin="315,46,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" FontFamily="Comic Sans MS" Background="Gray" Foreground="White"/>
+        <Label Content="Zvok" HorizontalAlignment="Left" Margin="69,84,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="112,84,0,0" VerticalAlignment="Top" Width="120"/>
+        <CheckBox Content="Je kapitan" HorizontalAlignment="Left" Margin="279,88,0,0" VerticalAlignment="Top"/>
+        <Label Content="Član do" HorizontalAlignment="Left" Margin="54,139,0,0" VerticalAlignment="Top"/>
+        <DatePicker HorizontalAlignment="Left" Margin="113,140,0,0" VerticalAlignment="Top"/>
+        <GroupBox Header="Izkušnje" Margin="112,184,616,184">
+            <StackPanel Orientation="Vertical" Height="137">
+                <RadioButton Content="Do 1 leta" Style="{DynamicResource stilPisave}"/>
+                <RadioButton Content="1 do 4 leta" Style="{DynamicResource stilPisave}"/>
+                <RadioButton Content="5 do 9 leta" Style="{DynamicResource stilPisave}"/>
+                <RadioButton Content="Nad 10 let" Style="{DynamicResource stilPisave}"/>
+            </StackPanel>
+        </GroupBox>
+        <Button HorizontalAlignment="Left" Margin="376,184,0,0" VerticalAlignment="Top">
+            <ListBox d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        </Button>
+
+    </Grid>
+</Window>

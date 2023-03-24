@@ -1,0 +1,25 @@
+﻿<Window x:Class="Vsota_WPF_aplikacija.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vsota_WPF_aplikacija"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblPrvoŠtevilo" Content="Prvo število:" HorizontalAlignment="Left" Margin="42,51,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDrugoŠtevilo" Content="Drugo število:" HorizontalAlignment="Left" Margin="42,92,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblRezultat" Content="Rezultat:" HorizontalAlignment="Left" Margin="42,143,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtPrvoŠtevilo" HorizontalAlignment="Left" Margin="146,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtDrugoŠtevilo" HorizontalAlignment="Left" Margin="146,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtRezultat" HorizontalAlignment="Left" Margin="146,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsReadOnlyCaretVisible="True"/>
+        <Button x:Name="btnIzračunaj" Content="Izračunaj" HorizontalAlignment="Left" Margin="50,217,0,0" VerticalAlignment="Top" Click="btnIzračunaj_Click"/>
+        <Button x:Name="btnPočisti" Content="Počisti" HorizontalAlignment="Left" Margin="146,217,0,0" VerticalAlignment="Top" Click="btnPočisti_Click"/>
+        <GroupBox Header="Operacije" Margin="306,45,376,269"/>
+        <RadioButton x:Name="radSeš" Content="Seštevanje" HorizontalAlignment="Left" Margin="315,68,0,0" VerticalAlignment="Top" Checked="radSeš_Checked" IsChecked="True"/>
+        <RadioButton x:Name="radOdš" Content="Odštevanje" HorizontalAlignment="Left" Margin="315,88,0,0" VerticalAlignment="Top" Checked="radOdš_Checked"/>
+        <RadioButton x:Name="radMno" Content="Množenje" HorizontalAlignment="Left" Margin="315,108,0,0" VerticalAlignment="Top" Checked="radMno_Checked"/>
+        <RadioButton x:Name="radDel" Content="Deljenje" HorizontalAlignment="Left" Margin="315,128,0,0" VerticalAlignment="Top" Checked="radDel_Checked"/>
+
+    </Grid>
+</Window>
