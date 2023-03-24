@@ -1,0 +1,17 @@
+D:\PRO1sk11\Koncerti\Koncerti\bin\Debug\Koncerti.exe.config
+D:\PRO1sk11\Koncerti\Koncerti\bin\Debug\Koncerti.exe
+D:\PRO1sk11\Koncerti\Koncerti\bin\Debug\Koncerti.pdb
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\Koncerti.csproj.AssemblyReference.cache
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\Koncerti.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\MainWindow.g.cs
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\App.g.cs
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\Koncerti_MarkupCompile.cache
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\Koncerti_MarkupCompile.lref
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\MainWindow.baml
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\Koncerti.g.resources
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\Koncerti.Properties.Resources.resources
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\Koncerti.csproj.GenerateResource.cache
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\Koncerti.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\Koncerti.exe
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\Koncerti.pdb
+D:\PRO1sk11\Koncerti\Koncerti\obj\Debug\GeneratedInternalTypeHelper.g.cs
