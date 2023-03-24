@@ -22,5 +22,14 @@ namespace Koncerti
             } 
         }
 
+        public string ImeDogodka { get => imeDogodka;
+
+            set
+            { if (String.IsNullOrEmpty(value))
+                throw new Exception("Ni dogodka");
+            else
+                štKupca = value;
+            }
+        }
     }
 }
