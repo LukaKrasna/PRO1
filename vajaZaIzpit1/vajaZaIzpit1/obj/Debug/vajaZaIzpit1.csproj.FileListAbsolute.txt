@@ -1,0 +1,8 @@
+D:\PRO1sk11\vajaZaIzpit1\vajaZaIzpit1\bin\Debug\vajaZaIzpit1.exe.config
+D:\PRO1sk11\vajaZaIzpit1\vajaZaIzpit1\bin\Debug\vajaZaIzpit1.exe
+D:\PRO1sk11\vajaZaIzpit1\vajaZaIzpit1\bin\Debug\vajaZaIzpit1.pdb
+D:\PRO1sk11\vajaZaIzpit1\vajaZaIzpit1\obj\Debug\vajaZaIzpit1.csproj.AssemblyReference.cache
+D:\PRO1sk11\vajaZaIzpit1\vajaZaIzpit1\obj\Debug\vajaZaIzpit1.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk11\vajaZaIzpit1\vajaZaIzpit1\obj\Debug\vajaZaIzpit1.csproj.CoreCompileInputs.cache
+D:\PRO1sk11\vajaZaIzpit1\vajaZaIzpit1\obj\Debug\vajaZaIzpit1.exe
+D:\PRO1sk11\vajaZaIzpit1\vajaZaIzpit1\obj\Debug\vajaZaIzpit1.pdb
